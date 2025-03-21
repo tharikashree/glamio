@@ -1,5 +1,7 @@
 # Glamio - E-commerce Website
 ![glamio](https://github.com/user-attachments/assets/10299421-af2f-4599-9e92-afead795455a)
+![WhatsApp Image 2025-03-21 at 20 22 17_549b8000](https://github.com/user-attachments/assets/6270f75c-10f5-42cd-bdc2-d31b35b3e643)![WhatsApp Image 2025-03-21 at 20 22 17_79168b43](https://github.com/user-attachments/assets/1c8bf4b7-3475-48db-b257-abfbbf957628)
+
 
 ## Overview
 Glamio is a modern, high-performance e-commerce website built using **Vite**, **React.js**, and **Strapi CMS**. It provides a seamless shopping experience with a fast frontend, dynamic content management, and robust backend API support.
